@@ -15,6 +15,6 @@ An interactive learning website designed to help undergraduate business students
 
 ## About
 
-Developed as a supplementary learning resource for the *Business Analytics and Decision Making* module.
+Developed as a supplementary learning resource for the *MN1802 Business Analytics and Decision Making* module.
 
 **Version 1.0 — Prototype** | Built with HTML, CSS and JavaScript.
